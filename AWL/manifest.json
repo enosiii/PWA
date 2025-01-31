@@ -1,0 +1,21 @@
+{
+  "short_name": "Anime Watch List🍿",
+  "name": "🍿Anime Watch List",
+  "icons": [
+    {
+      "src": "https://username.github.io/PWA/AWL/PC-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://username.github.io/PWA/AWL/PC-icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://script.google.com/macros/s/AKfycbwpdAJmvep38oEly6CRrLjE7tgO-nbwGyL3yG5HVUjmbUtr7IiwOBTe02n_SJaFVUig/exec",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000"
+}
