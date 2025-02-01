@@ -1,8 +1,8 @@
 const CACHE_NAME = 'pwa-ytp-cache-v1';
 const urlsToCache = [
   'https://enosiii.github.io/YT-Playlist/',
-  'https://enosiii.github.io/PWA/AWL/yt1-icon-192x192.png',
-  'https://enosiii.github.io/PWA/AWL/yt1-icon-512x512.png'
+  'https://enosiii.github.io/PWA/YTP/yt1-icon-192x192.png',
+  'https://enosiii.github.io/PWA/YTP/yt1-icon-512x512.png'
 ];
 
 // Install event
