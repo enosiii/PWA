@@ -3,12 +3,12 @@
   "name": "🎧 YT Playlist",
   "icons": [
     {
-      "src": "https://enosiii.github.io/PWA/AWL/yt1-icon-192x192.png",
+      "src": "https://enosiii.github.io/PWA/YTP/yt1-icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://enosiii.github.io/PWA/AWL/yt1-icon-512x512.png",
+      "src": "https://enosiii.github.io/PWA/YTP/yt1-icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
