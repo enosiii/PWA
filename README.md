@@ -1,2 +1,2 @@
 # PWA
-Personal PWA repository
+Personal Progressive Web App repository
