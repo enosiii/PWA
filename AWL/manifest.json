@@ -1,4 +1,5 @@
 {
+  "id": "anime-watch-list",
   "short_name": "Anime Watch List🍿",
   "name": "🍿Anime Watch List",
   "icons": [
@@ -16,6 +17,6 @@
   "start_url": "https://enosiii.github.io/Anime-Watch-List/",
   "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/Anime-Watch-List/",
   "theme_color": "#000000"
 }
